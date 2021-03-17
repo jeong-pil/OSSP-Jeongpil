@@ -1,2 +1,2 @@
-# OSSP_jeongpil
+# OSSP-Jeongpil
 OSSP 
